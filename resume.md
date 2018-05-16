@@ -5,6 +5,10 @@ sidebar_link: true
 order: 90
 ---
 
+[Download pdf](https://drive.google.com/file/d/0B6YShwdPsmlORG5tX1VSZjZscDg/view?usp=sharing)
+
+> Scientist with 7 years of experience in bioinformatics and life sciences. Web developer, crypto enthusiast and computer geek.
+
 [Education](#education) \| 
 [Professional experience](#professional-experience) \|
 [Relevant experience](#relevant-experience) \|
@@ -15,45 +19,64 @@ order: 90
 [Other activities](#other-activities)
 
 # EDUCATION
-## School of Biology and Environmental science, University College Dublin, Ireland
-* **Degree**: PhD, June 2015
-* **Degree thesis title**: A computational and experimental study of protein localisation determinants in the mammalian endomembrane system
-* **Supervisors**: Prof. Jeremy Simpson and Prof. Denis Shields
+**School of Biology and Environmental science, University College Dublin, Ireland**  
+Degree: PhD, June 2015  
+Degree thesis title: A computational and experimental study of protein localisation determinants in the mammalian endomembrane system  
+Supervisors: Prof. Jeremy Simpson and Prof. Denis Shields
 
-## Faculty of Pharmacy, University of Ljubljana, Slovenia
-* **Degree**: Master of Pharmacy, June 2010
-* **Degree thesis title**: Expression of Interleukin 6 is modulated by EP4 receptor
-* **Supervisor**: Prof. Irena Mlinarič-Raščan, MPharm.
+**Faculty of Pharmacy, University of Ljubljana, Slovenia**  
+Degree: Master of Pharmacy, June 2010  
+Degree thesis title: Expression of Interleukin 6 is modulated by EP4 receptor  
+Supervisor: Prof. Irena Mlinarič-Raščan, MPharm.
 
 # PROFESSIONAL EXPERIENCE
-**Visiting researcher at Department of epidemiology, Erasmus Medical center, Rotterdam, Netherlands** - *April and May 2018*
+**Visiting researcher at Department of epidemiology, Erasmus Medical center, Rotterdam, Netherlands**  
+*April and May 2018*
 
-**Teaching assistant at Department of clinical biochemistry, Faculty of Pharmacy, University of Ljubljana** - *2015 - present*
+**Teaching assistant at Department of clinical biochemistry, Faculty of Pharmacy, University of Ljubljana**  
+*2015 - present*
 
-**PhD student at School of Biology and Environmental science, University College Dublin, PhD programme in Bioinformatics and Systems biology** - *2011-2015*
-* **Supervisors**: Prof. Jeremy Simpson, SBES and Prof. Denis Shields, Conway institute
+**PhD student at School of Biology and Environmental science, University College Dublin, PhD programme in Bioinformatics and Systems biology**  
+*2011-2015*  
+Supervisors: Prof. Jeremy Simpson, SBES and Prof. Denis Shields, Conway institute
 
-**Founder, director of a start-up company MOOmanager** - *2014-2015*
+**Founder, director of a start-up company MOOmanager**  
+*2014-2015*
 
-**Founder, director of Slovenian-Irish association Detelca** - *2013-2015*
+**Founder, director of Slovenian-Irish association Detelca**  
+*2013-2015*
 
-**Research assistant at Department of clinical biochemistry, Faculty of Pharmacy, University of Ljubljana** - *2010 - 2011*
+**Research assistant at Department of clinical biochemistry, Faculty of Pharmacy, University of Ljubljana**  
+*2010 - 2011*
 
-**Assistant at Sandoz Lek Ljubljana, Maintenance regulatory centre** - *2007-2010*
+**Assistant at Sandoz Lek Ljubljana, Maintenance regulatory centre**  
+*2007-2010*
 
-**Journalist at RTV Slovenia (National broadcasting station)** - *2003-2009*
-* Resnicna resnicnost - Information technology TV show
+**Journalist at RTV Slovenia (National broadcasting station)**  
+*2003-2009*  
+Resnicna resnicnost - Information technology TV show
 
-**Intern in pharmacy, supervisor: Janja Krmavnar, MPharm.** - *2009, 6 months*
+**Intern in pharmacy, supervisor: Janja Krmavnar, MPharm.**  
+*2009, 6 months*
 
-**Intern in Department of genetics, Ankara paediatric hospital** - *2008, 1 month*
+**Intern in Department of genetics, Ankara paediatric hospital**  
+*2008, 1 month*
 
 # RELEVANT EXPERIENCE
-**Participant at Novartis Regional Biocamp 2015**- *2015*<br>
-**Organiser of Computational biology hackathon at Bioinformatics retreat 2014** - *2014*<br>
-**Organiser of PhD symposium in Computational biology and Innovation 2013** - *2013*<br>
-**Author of a documentary on Biological drugs, broadcast on the national TV** - *2011*<br>
-**Editor of Students' of pharmacy journal Spatula** - *2005-2008*
+**Participant at Novartis Regional Biocamp 2015**  
+*2015*
+
+**Organiser of Computational biology hackathon at Bioinformatics retreat 2014**  
+*2014*
+
+**Organiser of PhD symposium in Computational biology and Innovation 2013**  
+*2013*
+
+**Author of a documentary on Biological drugs, broadcast on the national TV**  
+*2011*
+
+**Editor of Students' of pharmacy journal Spatula**  
+*2005-2008*
 
 # TRANSFERABLE SKILLS
 **Machine learning & AI**: Tensorflow, Keras<br>

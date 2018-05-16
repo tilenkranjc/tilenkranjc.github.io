@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Tilen Kranjc
 tagline:          'A Jekyll theme'
-description:      'Image analysis, bioinformatics, design'
+description:      'Image analysis, crypto, design'
 url:              https://www.tilenkranjc.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
