@@ -1,0 +1,10 @@
+<style>
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery a img {width: 100%; display: block;}
+</style>
+
+<p class="image-gallery">
+    {% for file in page.images %}
+        <!--{% if file.image_path.extname == '.jpg' or file.image_path.extname == '.jpeg' or file.image_path.extname == '.JPG' or file.image_path.extname == '.JPEG' %}{% endif %}-->
+        <a href="{{ file.image_path }}" data-lightbox="{{ page.title }}" data-title="{{ file.title }}"><img src="{{ file.image_path}}" /></a>{% endfor %}</p>
