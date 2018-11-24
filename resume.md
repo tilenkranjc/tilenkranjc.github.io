@@ -30,11 +30,14 @@ Degree thesis title: Expression of Interleukin 6 is modulated by EP4 receptor
 Supervisor: Prof. Irena Mlinarič-Raščan, MPharm.
 
 # PROFESSIONAL EXPERIENCE
+**Sales manager at Biosistemika, Ljubljana, Slovenia**
+*2018 - present*
+
 **Visiting researcher at Department of epidemiology, Erasmus Medical center, Rotterdam, Netherlands**  
 *April and May 2018*
 
 **Teaching assistant at Department of clinical biochemistry, Faculty of Pharmacy, University of Ljubljana**  
-*2015 - present*
+*2015 - 2018*
 
 **PhD student at School of Biology and Environmental science, University College Dublin, PhD programme in Bioinformatics and Systems biology**  
 *2011-2015*  
