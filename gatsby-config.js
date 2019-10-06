@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: url,
     title: 'Tilen Kranjc',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      '(Bio)Medical image analysis | Data science | Developer | Entrepreneur | Crypto enthusiast',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -18,8 +18,12 @@ module.exports = {
         path: '/',
       },
       {
-        label: 'About me',
-        path: '/about/',
+        label: 'Image analysis',
+        path: '/research/',
+      },
+      {
+        label: 'Resume',
+        path: '/resume/',
       },
       {
         label: 'Contact me',
