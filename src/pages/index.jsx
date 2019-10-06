@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 // import Post from '../components/Post'
 import Sidebar from '../components/Sidebar'
+import './index.scss'
 
 class IndexRoute extends React.Component {
   render() {
