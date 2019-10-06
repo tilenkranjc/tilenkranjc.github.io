@@ -67,7 +67,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    markdownRemark(fileAbsolutePath: { regex: "/index.md/" }) {
+    markdownRemark(fileAbsolutePath: { regex: "/homepage.md/" }) {
       id
       html
       frontmatter {
