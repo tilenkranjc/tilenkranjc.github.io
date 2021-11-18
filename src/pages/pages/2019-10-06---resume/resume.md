@@ -29,8 +29,11 @@ Degree thesis title: Expression of Interleukin 6 is modulated by EP4 receptor
 Supervisor: Prof. Irena Mlinarič-Raščan, MPharm.
 
 # PROFESSIONAL EXPERIENCE
+**Consultant for image analysis in microscopy, HCS and medical imaging**
+*2021 - present*
+
 **Sales manager at Biosistemika, Ljubljana, Slovenia**
-*2018 - present*
+*2018 - 2021*
 
 **Visiting researcher at Department of epidemiology, Erasmus Medical center, Rotterdam, Netherlands**  
 *April and May 2018*
@@ -113,7 +116,7 @@ University of Ljubljana nomination for Prešeren award for outstanding research 
 Zois scholarship for outstanding students (1999-2010)
 
 # RESEARCH
-**Interests**: Machine learning in X-ray image analysis.
+**Interests**: Machine learning in X-ray image analysis. Novel algorithms to extract more data from microscopy images.
 
 # PUBLICATIONS
 Marc J, Ostanek B, Kranjc T. Bone microRNAs and ageing. Curr Pharm Biotechnol. 2017 Feb 2. doi: 10.2174/1389201018666170203091828.
